@@ -6,7 +6,7 @@ namespace HelloWorldCore
     {
         public static void Main()
         {
-            WriteLine("Hello World1!")
+            console.WriteLine("Hello World1!")
         }
     }
 }
